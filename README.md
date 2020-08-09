@@ -19,3 +19,6 @@ python3 manage.py makemigrations
 ```bash
 python3 manage.py migrate
 ```
+
+[//]: # (This is where I paused my work -> 
+https://youtu.be/tUqUdu0Sjyc?list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO&t=1359)
